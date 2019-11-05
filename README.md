@@ -2,8 +2,9 @@
 
 ## What is this?
 
-- Discord上で動くbot
+- Discord上で動くbot…の雛形
 - 多機能じゃないけどダイス振ったり多数決出来たりするユーティリティbot(?)
+- Heroku上で動かそうと思ったけどTOKENの関係で公開出来ないのでその辺だけ置き換えたものがここのファイル
 
 ## What functions do you have?
 
